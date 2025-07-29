@@ -5,7 +5,7 @@ import openai
 import os
 
 # --- Secure API Key Management ---
-#openai.api_key = os.getenv("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")  # Ensure to set this in your environment variables
+#openai.api_key = os.getenv("YOUR-API-KEY")  # Ensure to set this in your environment variables
 
 #Set Page Configuration
 
